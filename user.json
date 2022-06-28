@@ -1,0 +1,39 @@
+{
+  "USA": {
+    "1/1": "New Year's Day",
+    "2/2": "Groundhog Day",
+    "2/14": "Valentine's Day",
+    "3/17": "St. Patrick's Day",
+    "4/22": "Earth Day",
+    "7/4": "Independence Day",
+    "9/11": "Patriot Day",
+    "10/31": "Halloween",
+    "11/11": "Veterans' Day",
+    "12/7": "Pearl Harbor Day",
+    "12/25": "Christmas Day",
+    "12/31": "New Year's Eve",
+    "1/16": "MLK Day",
+    "2/20": "President's Day",
+    "5/14": "Mother's Day",
+    "6/18": "Father's Day",
+    "5/29": "Memorial Day",
+    "9/4": "Labour Day",
+    "10/9": "Columbus Day",
+    "11/23": "Thanksgiving Day"
+  },
+  "Canada": {
+    "1/1": "New Year's Day",
+    "2/2": "Groundhog Day",
+    "2/14": "Valentine's Day",
+    "7/1": "Canada Day",
+    "11/11": "Remembrance Day",
+    "12/25": "Christmas Day",
+    "12/26": "Boxing Day",
+    "12/31": "New Year's Eve",
+    "5/14": "Mother's Day",
+    "5/22": "Victoria Day",
+    "6/18": "Father's Day",
+    "9/4": "Labour Day",
+    "10/9": "Thanksgiving Day"
+  }
+}
